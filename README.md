@@ -1,2 +1,5 @@
 # hello-world
-Just another depository
+
+To whoever is reading this:
+
+I'm Danny and I'm a new student at Coding House. I am from the East Coast. My background is in business; I got my Bachelors of Science in Information Systems and Accounting at the Robert H. Smith School of Business at the University of Maryland. I was a consultant at Deloitte for one year, but learned that I want to create my own products while on one of my engagements. The best way to create anything in this day and age, is, in my opinion, software. That's when I decided to start my software journey. I had a little bit of experience coding through a class in Visual Basic for my Information Systems major, but that's all I had (other than changing my MySpace and Xanga pages in middle and high school). So I contacted my old employer from sophomore - junior year of college and landed an internship in Software Development. My time there was great and I learned a lot, but I knew that I wasn't going to learn the full range of technical knowledge that I desired. So I took the jump and moved out here to the West Coast to find other opportunities / learn more, and I found Coding House.
